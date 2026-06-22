@@ -49,15 +49,11 @@ It is designed to work seamlessly with displays like:
 
 ## 🚀 Installation
 
-Download the latest release from GitHub:
+1. Download the latest release from GitHub.
+ 👉 https://github.com/your-repo/NUI-Tool/releases
+2. Extract the ZIP archive.
+3. Run `NUI_Tool.exe`.
 
-👉 https://github.com/your-repo/NUI-Tool/releases
-
-No installation required. Just run:
-
-```bash
-Nui_Tool.exe
-```
 ## 🖼️ Usage
 ### Image Conversion
 1. Open image
